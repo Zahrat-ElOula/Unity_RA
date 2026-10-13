@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="symetricalimage" size="0.160000 0.120000" />
+    <ImageTarget name="imagetemplate-fewfeatures" size="0.160000 0.120000" />
+    <ImageTarget name="machindus-artemplatev2" size="0.160000 0.091200" />
+  </Tracking>
+</QCARConfig>
